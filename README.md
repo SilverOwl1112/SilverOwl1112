@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nithilan valan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nithilan valan" height="30" width="40" /></a>
-<a href="https://instagram.com/@s_i_l_v_e_r_o_w_l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@s_i_l_v_e_r_o_w_l" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nithilan-valan-8b8822226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nithilan-valan-8b8822226" height="30" width="40" /></a>
+<a href="https://instagram.com/s_i_l_v_e_r_o_w_l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s_i_l_v_e_r_o_w_l" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
